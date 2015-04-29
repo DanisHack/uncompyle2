@@ -94,6 +94,10 @@ Usage
 uncompyle2 -h		prints short usage
 uncompyle2 --help	prints long usage
 
+Alternative
+-----------
+http://stackoverflow.com/questions/16508578/python-uncompyle2-usage
+
 
 Known Bugs/Restrictions
 -----------------------
